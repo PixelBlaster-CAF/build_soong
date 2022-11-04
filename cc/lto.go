@@ -18,8 +18,6 @@ import (
 	"github.com/google/blueprint/proptools"
 
 	"android/soong/android"
-	"android/soong/cc/config"
-	"strings"
 )
 
 // LTO (link-time optimization) allows the compiler to optimize and generate
