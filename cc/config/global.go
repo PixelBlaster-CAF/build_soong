@@ -317,6 +317,7 @@ var (
 		"-Wno-error=strict-prototypes",
 		"-Wno-error=enum-conversion",
 		"-Wno-error=unused-value",
+		"-Wno-error=unused-private-field",
 	}
 
 	noOverrideExternalGlobalCflags = []string{
